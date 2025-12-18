@@ -1,4 +1,0 @@
-nome_paciente    ,tipo_leito,qtde_dias_internacao,tipo_procedimento,qtde_procedimentos
-Adalgisa da Silva,ENFERMARIA,20                  ,                 ,
-Adalgisa da Silva,          ,                    ,BASICO           ,20
-Adalgisa da Silva,          ,                    ,AVANCADO         ,15
